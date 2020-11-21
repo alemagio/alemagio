@@ -1,8 +1,8 @@
 ## Hi I'm Alessandro 👋
 
-I started coding when I was at the University but I always tought about it like it was magic.
+I started coding when I was at the University but I always tought about it like it was magic, since I was around 10.
 I always play the wizard 🧙‍♂️ in every game and I'm a huge Harry Potter fan (ask me anything and I'll prove it 💬).
-So basically being a coder, to me, feels like the closest thing to a wizard I could do 😄.
+So basically being a coder, to me, feels like the closest thing to a wizard I could be 😄.
 
 In my fulltime job I work on PHP right now but, in the last 4 years, I worked on Java, Javascript and a little bit of Python.
 I do what my team needs me to do 👷.
